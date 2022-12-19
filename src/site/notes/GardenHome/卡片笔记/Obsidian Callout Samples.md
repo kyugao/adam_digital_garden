@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"CallOut Samples","number headings":"first-level 1, max 6, 1.1.","permalink":"/CallOut Samples/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"CallOutSamples","number headings":"first-level 1, max 6, 1.1.","permalink":"/CallOutSamples/","dgPassFrontmatter":true}
 ---
 
 
