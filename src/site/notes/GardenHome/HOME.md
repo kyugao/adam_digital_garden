@@ -23,3 +23,9 @@
 | AIChat               | [LINK](https://chat.openai.com/chat) |
 | Obsidian数字花园框架 | [LINK](https://dg-docs.ole.dev/)     |
 | 奈飞站点部署         | [LINK](https://app.netlify.com)      |
+
+Obsidian使用记录
+
+| Items       | Link                         |
+| ----------- | ---------------------------- |
+| 各种CallOut | [[GardenHome/卡片笔记/Obsidian Callout Samples\|Obsidian Callout Samples]] |
