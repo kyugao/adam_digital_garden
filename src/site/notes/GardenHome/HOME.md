@@ -24,8 +24,9 @@
 | Obsidian数字花园框架 | [LINK](https://dg-docs.ole.dev/)     |
 | 奈飞站点部署         | [LINK](https://app.netlify.com)      |
 
-Obsidian使用记录
+工具与参考内容
 
-| Items       | Link                         |
-| ----------- | ---------------------------- |
-| 各种CallOut | [[GardenHome/卡片笔记/Obsidian Callout Samples\|Obsidian Callout Samples]] |
+| Items       | Link                           |
+| ----------- | ------------------------------ |
+| 各种CallOut | [[GardenHome/卡片笔记/Obsidian Callout Samples\|Obsidian Callout Samples]]   |
+| 找书        | [LINK](https://zlib.zu1k.com/) | 
