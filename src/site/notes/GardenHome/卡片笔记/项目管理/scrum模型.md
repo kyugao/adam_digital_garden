@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-home///scrum/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"scrum模型","permalink":"/scrum模型/","dgPassFrontmatter":true}
 ---
 
 [[000-WorkingNotes/学习/团队管理/敏捷与SCRUM/史诗\|史诗]]
