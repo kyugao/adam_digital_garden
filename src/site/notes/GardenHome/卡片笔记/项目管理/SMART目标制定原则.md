@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-home///smart/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"SMART目标制定原则","permalink":"/SMART目标制定原则/","dgPassFrontmatter":true}
 ---
 
 S.M.A.R.T原则
