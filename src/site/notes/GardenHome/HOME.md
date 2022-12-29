@@ -25,6 +25,7 @@
 | AIChat               | [LINK](https://chat.openai.com/chat) |
 | Obsidian数字花园框架 | [LINK](https://dg-docs.ole.dev/)     |
 | 奈飞站点部署         | [LINK](https://app.netlify.com)      |
+| zLibrary Helper      | [LINK](https://tool.yibook.org/)     | 
 
 工具与参考内容
 
