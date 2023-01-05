@@ -26,11 +26,8 @@
 | 奈飞站点部署         | [LINK](https://app.netlify.com)      |
 | 搜书网大全           | [LINK](https://nav.yibook.org/)      |
 
-工具与参考内容
+Obsidian操作经验
 
 | Items       | Link                                                                           |
 | ----------- | ------------------------------------------------------------------------------ |
-| 各种CallOut | [[GardenHome/卡片笔记/Obsidian秘技/Obsidian Callout Samples\|Obsidian Callout Samples]]                                                   |
-| 找书        | [LINK](https://zlib.zu1k.com/)                                                 |
-| Z-lib tor   | [LINK](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) |
-| Z-lib i2p   | [LINK](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p/)                                                                               |
+| 各种CallOut | [[GardenHome/卡片笔记/Obsidian秘技/Obsidian Callout Samples\|Obsidian Callout Samples]]                                                   |                                                                          |
